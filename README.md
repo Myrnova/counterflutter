@@ -1,0 +1,1 @@
+Aplicativo de contador proposto na primeira aula de Flutter na NLW Together
